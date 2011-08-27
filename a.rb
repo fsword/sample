@@ -1,4 +1,4 @@
 p 'ab'
-pt 'c'
+puts 'c'
 p 'd'
 p 'ex'
