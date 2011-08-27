@@ -1,4 +1,4 @@
 p 'ab'
- 'c'
+pt 'c'
 p 'd'
 p 'ex'
