@@ -1,1 +1,1 @@
-p 'helelo,b'
+puts 'helelo,b'
