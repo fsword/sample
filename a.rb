@@ -1,4 +1,4 @@
-p 'ab'
+puts 'ab'
 puts 'c'
-p 'd'
-p 'ex'
+puts 'd'
+puts 'ex'
